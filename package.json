@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firebase-admin": "^12.2.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "request": "^2.88.2",
+    "require": "^2.4.20"
+  }
+}
